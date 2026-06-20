@@ -1,5 +1,3 @@
-# susheelshukla.github.io
+# My Portfolio - Susheel Kumar Shukla
 
-Personal Profile of Susheel Kumar Shukla
-
-* My first commit for portfolio
+- Find the link for webpage view [Click to visit Page](https://bughunter-sks.github.io/susheelshukla.github.io/)
