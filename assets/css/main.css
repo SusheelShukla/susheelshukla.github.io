@@ -233,7 +233,7 @@ strong:nth-of-type(5n+1) {
 
 /* Blue */
 strong:nth-of-type(5n+2) {
-	color: #dc2626;
+	color: #0c6962;
 }
 
 /* Red */
@@ -243,7 +243,7 @@ strong:nth-of-type(5n+3) {
 
 /* Purple */
 strong:nth-of-type(5n+4) {
-	color: #0f766e;
+	color: #dc2626;
 }
 
 /* Teal */
@@ -387,7 +387,7 @@ header>p {
 .wrapper.style1 {
 	background-image: none;
 	background-color: #f6fffc;
-	min-height: 100vh;
+	min-height: vh;
 	align-items: center;
 	display: grid;
 	direction: rtl;
@@ -2796,90 +2796,39 @@ footer>p {
 		margin: 0;
 	}
 
-	/* Journey */
-	/* .journey-container {
-		flex-direction: column;
-		align-items: flex-start;
-	}
-
-	.journey-line {
-		width: 6px;
-		height: 100%;
-		left: 20px;
-		top: 0;
-		transform: none;
-	}
-
-	.journey-step {
-		width: 100%;
-		justify-content: flex-start;
-		padding-left: 60px;
-		margin-bottom: 2rem;
-	}
-
-	.journey-card {
-		position: relative;
-		top: 0 !important;
-		width: 100%;
-		max-width: 320px;
-	}
-
-	.journey-node {
-		left: 20px;
-		position: absolute;
-	} */
-
-
 	.journey-container {
-
 		flex-direction: column;
-
 		align-items: flex-start;
-
 		min-height: auto;
-
 		padding-left: 1rem;
 	}
 
 	.journey-line {
-
 		width: 6px;
 		height: 100%;
-
 		left: 22px;
 		top: 0;
-
 		right: auto;
-
 		transform: none;
 	}
 
 	.journey-step {
-
 		width: 100%;
-
 		justify-content: flex-start;
-
 		padding-left: 60px;
-
 		margin-bottom: 2rem;
 	}
 
 	.journey-node {
-
 		position: absolute;
-
 		left: 12px;
 		top: 50%;
 	}
 
 	.journey-card {
-
 		position: relative;
-
 		width: 100%;
 		max-width: 340px;
-
 		top: 0 !important;
 		left: 0;
 	}
