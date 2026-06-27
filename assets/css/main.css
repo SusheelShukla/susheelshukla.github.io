@@ -390,7 +390,6 @@ header>p {
 	min-height: 100vh;
 	align-items: center;
 	display: grid;
-	direction: rtl;
 }
 
 .wrapper.style2 {
