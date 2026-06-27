@@ -387,7 +387,7 @@ header>p {
 .wrapper.style1 {
 	background-image: none;
 	background-color: #f6fffc;
-	min-height: vh;
+	min-height: 100vh;
 	align-items: center;
 	display: grid;
 	direction: rtl;
